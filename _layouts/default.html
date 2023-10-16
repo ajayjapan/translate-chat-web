@@ -33,7 +33,7 @@
         <a href="/" class="text-left my-auto m-5 text-lg">translatechat.app</a>
       </div>
       <div class="col-span-2 font-serif lg:flex hidden items-end content-end justify-end p-2">
-        <img src="/assets/images/app-store-icon.png" srcset="/assets/images/app-store-icon.png 1x, /assets/images/app-store-icon@2x.png 2x">
+        <img src="{{ "/assets/images/app-store-icon.png" | relative_url }}" srcset="{{ "/assets/images/app-store-icon.png" | relative_url }} 1x, {{ "/assets/images/app-store-icon@2x.png" | relative_url }} 2x">
       </div>
 
       {{ content }}
