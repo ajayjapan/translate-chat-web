@@ -1,5 +1,5 @@
 url: 'https://translatechat.app'
-baseurl: ''
+baseurl: 'translate-chat-web'
 title: 'Translate Chat'
 
 plugins:
