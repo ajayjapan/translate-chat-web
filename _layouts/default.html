@@ -29,7 +29,7 @@
     <div class="bg-slate-50 min-h-screen text-center grid grid-cols-1 lg:grid-cols-4 mx-auto lg:pt-0">
     
       <div class="col-span-2 font-serif lg:flex hidden items-start p-2">
-        <img src="/assets/images/header-icon.png" srcset="/assets/images/header-icon.png 1x, /assets/images/header-icon@2x.png 2x" class="rounded-lg">
+        <img src="{{ "/assets/images/header-icon.png" | relative_url }}" srcset="{{ "/assets/images/header-icon.png" | relative_url }} 1x, {{ "/assets/images/header-icon@2x.png" | relative_url }} 2x" class="rounded-lg">
         <a href="/" class="text-left my-auto m-5 text-lg">translatechat.app</a>
       </div>
       <div class="col-span-2 font-serif lg:flex hidden items-end content-end justify-end p-2">
