@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Happy coding"
+title: "Welcome"
 ---
 
 <div class="hidden row-span-2 items-end lg:flex">
