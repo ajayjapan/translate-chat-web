@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Welcome"
+title: "Chat with anyone in any language"
 ---
 
 <div class="hidden row-span-2 items-end lg:flex">
@@ -26,13 +26,13 @@ title: "Welcome"
 </div>
 
 <div class="col-span-2 lg:col-span-1 p-4 bg-slate-100">
-<a href="/privacy" class="text-slate-500 text-sm font-semibold">Privacy Policy</a>
+<a href="{{ "/privacy" | relative_url }}" class="text-slate-500 text-sm font-semibold">Privacy Policy</a>
 </div>
 <div class="col-span-2 lg:col-span-1 p-4 bg-slate-100">
-<a href="/terms" class="text-slate-500 text-sm font-semibold">Terms of Service</a>
+<a href="{{ "/terms" | relative_url }}" class="text-slate-500 text-sm font-semibold">Terms of Service</a>
 </div>
 <div class="col-span-2 lg:col-span-1 p-4 bg-slate-100">
-<a href="/faq" class="text-slate-500 text-sm font-semibold">FAQ</a>
+<a href="{{ "/faq" | relative_url }}" class="text-slate-500 text-sm font-semibold">FAQ</a>
 </div>
 <div class="col-span-2 lg:col-span-1 p-4 bg-slate-100">
 <a href="#" class="text-slate-500 text-sm font-semibold">Contact</a>
