@@ -1,6 +1,4 @@
-url: ''
-baseurl: ''
-title: 'Jekyllwind'
+title: 'Translate Chat'
 
 plugins:
   - jekyll-postcss
