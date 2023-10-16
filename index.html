@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <title>Happy coding - Translate Chat</title>
+    <link rel="stylesheet" href="/assets/css/main.css">
+
+    <title><%= content_for?(:html_title) ? yield(:html_title) : "Translate Chat" %></title>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <style>
+    p { padding: 1.25rem; }
+    h1 { 
+        padding: 1.25rem;
+        text-align: center;
+        font-size: 2.25rem;
+        line-height: 2.5rem;
+        font-family: ui-serif,Georgia,Cambria,Times New Roman,Times,serif;
+    }
+    h2 { 
+        padding: 1.25rem; 
+        font-weight: bolder;
+    }
+    </style>
+  </head>
+
+  <body>
+    <main class="w-full min-h-screen">
+    <div class="bg-slate-50 min-h-screen text-center grid grid-cols-1 lg:grid-cols-4 mx-auto lg:pt-0">
+    
+      <div class="col-span-2 font-serif lg:flex hidden items-start p-2">
+        <img src="/assets/images/header-icon.png" srcset="/assets/images/header-icon.png 1x, /assets/images/header-icon@2x.png 2x" class="rounded-lg">
+        <a href="/" class="text-left my-auto m-5 text-lg">translatechat.app</a>
+      </div>
+      <div class="col-span-2 font-serif lg:flex hidden items-end content-end justify-end p-2">
+        <img src="/assets/images/app-store-icon.png" srcset="/assets/images/app-store-icon.png 1x, /assets/images/app-store-icon@2x.png 2x">
+      </div>
+
+      <div class="hidden row-span-2 items-end lg:flex">
+    <img src="/assets/images/man-left.png" srcset="/assets/images/man-left.png 1x, /assets/images/man-left@2x.png 2x" class="mx-auto" />
+</div>
+
+<div class="lg:col-span-2 pb-10">
+    <h1 class="text-4xl p-5 pt-8 lg:p-0 text-slate-700 font-serif max-w-md mx-auto">Chat with anyone in any language</h1>
+    <img src="/assets/images/two-ppl.png" srcset="/assets/images/two-ppl.png 1x, /assets/images/two-ppl@2x.png 2x" class="lg:hidden mx-auto w-50" />
+    <p class="text-lg p-5 text-slate-700 max-w-lg mx-auto pb-10">
+    With TranslateChat, it's super easy to chat with people who speak different languages. Just type in your language, and our smart AI translates it for the other person. You can even hear the audio translations! Only available for iPhone. Perfect for learning new languages!
+    </p>        
+    <a href="#" class="bg-amber-400 text-black rounded-lg py-3 px-6 font-semibold text-xl">COMING SOON</a>
+</div>
+
+<div class="hidden row-span-2 items-end lg:flex">
+<img src="/assets/images/woman-right.png" srcset="/assets/images/woman-right.png 1x, /assets/images/woman-right@2x.png 2x" class="mx-auto" />
+</div>
+
+<div class="col-span-2 overflow-hidden" style="min-height:430px;">
+    <img src="/assets/images/screenshot-iphone.png" srcset="/assets/images/screenshot-iphone.png 1x, /assets/images/screenshot-iphone@2x.png 2x" class="mx-auto lg:hidden p-5" />
+    <img src="/assets/images/screenshot-iphone-top.png" srcset="/assets/images/screenshot-iphone-top.png 1x, /assets/images/screenshot-iphone-top@2x.png 2x" class="mx-auto hidden lg:block" />
+</div>
+
+<div class="col-span-2 lg:col-span-1 p-4 bg-slate-100">
+<a href="/privacy" class="text-slate-500 text-sm font-semibold">Privacy Policy</a>
+</div>
+<div class="col-span-2 lg:col-span-1 p-4 bg-slate-100">
+<a href="/terms" class="text-slate-500 text-sm font-semibold">Terms of Service</a>
+</div>
+<div class="col-span-2 lg:col-span-1 p-4 bg-slate-100">
+<a href="/faq" class="text-slate-500 text-sm font-semibold">FAQ</a>
+</div>
+<div class="col-span-2 lg:col-span-1 p-4 bg-slate-100">
+<a href="#" class="text-slate-500 text-sm font-semibold">Contact</a>
+</div>
+
+    </div>
+    </main>
+  </body>
+</html>
+

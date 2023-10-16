@@ -1,0 +1,38 @@
+Arguments: 
+  /opt/homebrew/Cellar/node/20.2.0/bin/node /opt/homebrew/Cellar/yarn/1.22.19/libexec/bin/yarn.js
+
+PATH: 
+  /Users/ajaychainani/.asdf/shims:/opt/homebrew/opt/asdf/libexec/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/opt/homebrew/bin:/opt/homebrew/sbin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  20.2.0
+
+Platform: 
+  darwin arm64
+
+Trace: 
+  Error [ERR_SOCKET_CONNECTION_TIMEOUT]: Socket connection timeout
+      at new NodeError (node:internal/errors:399:5)
+      at internalConnectMultiple (node:net:1099:20)
+      at Timeout.internalConnectMultipleTimeout (node:net:1638:3)
+      at listOnTimeout (node:internal/timers:575:11)
+      at process.processTimers (node:internal/timers:514:7)
+
+npm manifest: 
+  {
+    "devDependencies": {
+      "autoprefixer": "^10.4.7",
+      "cssnano": "^5.1.8",
+      "postcss": "^8.4.13",
+      "tailwindcss": "^3.0.24"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
