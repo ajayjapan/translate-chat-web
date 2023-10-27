@@ -23,12 +23,6 @@ know before they take effect. By using TranslateChat on or after that
 effective date, you agree to the new Terms. If you don't agree to them, you
 should delete your account before they take effect, otherwise your use of the
 Services will be subject to the new Terms.</p>
-<h2>European Union</h2>
-<p>TranslateChat ("TranslateChat," "our," "we," or "us") provides the services
-described below to you ("Services") unless you live in a country or territory
-in the European Economic Area (which includes the European Union) and any
-other included country or territory (collectively referred to as the "European
-Region").</p>
 <h2>Account Registration</h2>
 <p>To access our Services, you must register for a TranslateChat account by
 providing a phone number.</p>

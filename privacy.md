@@ -50,7 +50,7 @@ Services.</p>
 collect additional information to provide such features. You will be notified
 of such collection, as appropriate. If you choose not to provide the
 information needed to use a feature, you will be unable to use the feature.</p>
-<p>Our Advertising Partners</p>
+<h2>Our Advertising Partners</h2>
 <p>Some of the advertisers in our app may use cookies and web beacons. Our
 advertising partners are listed below. Each of our advertising partners has
 their own Privacy Policy for their policies on user data. For easier access,
@@ -58,7 +58,7 @@ we hyperlinked to their Privacy Policies below.</p>
 <ul>
 <li>Google: https://policies.google.com/technologies/ads</li>
 </ul>
-<p>Privacy Policies</p>
+<h2>Privacy Policies</h2>
 <p>You may consult this list to find the Privacy Policy for each of the
 advertising partners of TranslateChat.</p>
 <p>Third party ad servers or ad networks uses technologies like cookies,
@@ -69,12 +69,12 @@ their advertising campaigns and/or to personalize the advertising content that
 you see on this app or other apps or websites.</p>
 <p>Note that TranslateChat has no access to or control over these cookies that
 are used by third party advertisers.</p>
-<p>Third Party Privacy Policies</p>
+<h2>Third Party Privacy Policies</h2>
 <p>TranslateChat's Privacy Policy does not apply to other advertisers or
 websites. Thus, we are advising you to consult the respective Privacy Policies
 of these third party ad servers for more detailed information. It may include
 their practices and instructions about how to opt-out of certain options.</p>
-<p>Children's Information</p>
+<h2>Children's Information</h2>
 <p>Another part of our priority is adding protection for children while using the
 internet. We encourage parents and guardians to observe, participate in,
 and/or monitor and guide their online activity.</p>
@@ -83,7 +83,7 @@ from children under the age of 13. If you think that your child provided this
 kind of information on our App, we strongly encourage you to contact us
 immediately and we will do our best efforts to promptly remove such
 information from our records.</p>
-<p>Online Privacy Policy Only</p>
+<h2>Online Privacy Policy Only</h2>
 <p>This Privacy Policy applies only to our online activities and is valid for
 users of our App with regards to the information that they shared and/or
 collect in TranslateChat. This policy is not applicable to any information
@@ -99,18 +99,10 @@ example, we collect information from you through:</p>
 <ul>
 <li>Your Account Information: This includes your required profile name, primary language, and mobile phone number. To create a TranslateChat account, you must provide these mandatory details. If you don't provide us with this information, you will not be able to create an account to use our Services. You can also choose to add an optional public profile image to your account.</li>
 <li>Your Communications with Us: Including user support, in-app feedback submissions, and messages you send to TranslateChat.</li>
-<li>
-<p>Your Messages: We do not retain your messages in the ordinary course of providing our Services to you. Instead, your messages are stored on your device and not typically stored on our servers. Once your messages are delivered, they are deleted from our servers.</p>
-</li>
-<li>
-<p>If a message cannot be delivered immediately (for example, if the recipient is offline), we keep it in encrypted form on our servers for up to 30 days as we try to deliver it. If a message is still undelivered after 30 days, we delete it.</p>
-</li>
-<li>
-<p>Our encryption is currently NOT end-to-end. A copy of the message will be shared with TranslateChat and our LLM provider for translation purposes. Messages are anonymized before being shared with our LLM provider. Our LLM provider may retain anonymized messages for a period of 30 days in order to identify abuse. Don't share sensitive or confidential information in your messages.</p>
-</li>
-<li>
-<p>Your Contacts (Optional): You can use the contact upload feature and provide us, if permitted by applicable laws, with the phone numbers in your address book, including those of users of our Services and your other contacts. If you grant us access to your address book, we DO NOT upload the entirety of it; only the contacts you choose to initiate a conversation with are sent to our server. Those contact phone numbers are stored on our server in a cryptographically hashed form without any identifying information, such as the name of the contact. They will never be used for any purpose other than to help you find your friends on TranslateChat. We value your privacy and adhere to local laws regarding data protection and privacy.</p>
-</li>
+<li>Your Messages: We do not retain your messages in the ordinary course of providing our Services to you. Instead, your messages are stored on your device and not typically stored on our servers. Once your messages are delivered, they are deleted from our servers.</li>
+<li>Undelivered Messages: If a message cannot be delivered immediately (for example, if the recipient is offline), we keep it in encrypted form on our servers for up to 30 days as we try to deliver it. If a message is still undelivered after 30 days, we delete it.</li>
+<li>Message Encryption: Our encryption is currently NOT end-to-end. A copy of the message will be shared with TranslateChat and our LLM provider for translation purposes. Messages are anonymized before being shared with our LLM provider. Our LLM provider may retain anonymized messages for a period of 30 days in order to identify abuse. Don't share sensitive or confidential information in your messages.</li>
+<li>Your Contacts (Optional): You can use the contact upload feature and provide us, if permitted by applicable laws, with the phone numbers in your address book, including those of users of our Services and your other contacts. If you grant us access to your address book, we DO NOT upload the entirety of it; only the contacts you choose to initiate a conversation with are sent to our server. Those contact phone numbers are stored on our server in a cryptographically hashed form without any identifying information, such as the name of the contact. They will never be used for any purpose other than to help you find your friends on TranslateChat. We value your privacy and adhere to local laws regarding data protection and privacy.</li>
 <li>Your Groups: You can create, join, or be added to groups, and such groups get associated with your account. If you create a group, you provide us with a group name and image or emoji. Group metadata including the list of members is currently stored on our servers in plaintext, so do not put anything private or sensitive in it.</li>
 <li>Translation Feedback: When you submit translation feedback, we collect your suggested translation, the initial translation, the content of the original message, and, if applicable, the content of the message it was in response to.</li>
 <li>Your Settings: Any settings that you may change through the service, such as muting a group or thread, blocking a user, etc.</li>
@@ -271,7 +263,7 @@ consent or in connection with a corporate transaction. In addition, we may
 share device information and identifiers and internet or other network or
 device activity with entities that provide content and functionality. See How
 We Use Your Information and Disclosure of Your Information to learn more</p>
-<h3>California Privacy Rights</h3>
+<h2>California Privacy Rights</h2>
 <p>If you are a California resident, the CCPA allows you (or an authorized agent
 acting on your behalf) to make certain requests related to your personal
 information. The CCPA allows you to request us to:</p>
@@ -310,7 +302,7 @@ Personal Data are as follows:</p>
 <li>When use of your Personal Data is necessary for us to comply with our legal obligations.</li>
 <li>When we have your consent. For example, where a country requires that we obtain your consent before we process certain data, we will seek your consent in accordance with those countries' requirements.</li>
 </ul>
-<h3>Privacy Rights</h3>
+<h2>Privacy Rights</h2>
 <p>If you are a citizen of the European Economic Area ("EEA"), the United
 Kingdom, or Switzerland, you may request that we:</p>
 <ul>
@@ -324,7 +316,7 @@ Kingdom, or Switzerland, you may request that we:</p>
 </ul>
 <p>To make such a request, please contact us at contact@translatechat.app and
 include "EU Data Subject Request" in the subject line.</p>
-<h3>Data Transfers</h3>
+<h2>Data Transfers</h2>
 <p>TranslateChat shares information globally, externally with our TranslateChat
 affiliates and subsidiaries, trusted service providers, and trusted business
 partners ("Trusted Third Parties"), and with those with whom you communicate
@@ -351,7 +343,7 @@ if you believe your rights have been breached.</p>
 "personally identifiable information" (as such terms are defined by Nevada
 law) to a person for that person to license or sell such information to
 additional persons. We do not engage in such activity.</p>
-<p>Law, Our Rights, And Protection</p>
+<h2>Law, Our Rights, And Protection</h2>
 <p>We access, preserve, and share your information described in this Privacy
 Policy if we have a good-faith belief that it is necessary to: (a) respond
 pursuant to applicable law or regulations, legal process, or government
@@ -361,7 +353,7 @@ prevent, or address fraud and other illegal activity or security, and
 technical issues; or (d) protect the rights, property, and safety of our
 users, TranslateChat, or others, including to prevent death or imminent bodily
 harm.</p>
-<p>Changes to This Policy</p>
+<h2>Changes to This Policy</h2>
 <h2>We may amend or update our Privacy Policy. We will notify you about</h2>
 <p>significant changes to it. Please review our Privacy Policy from time to time.</p>
 <h2>Contact Us</h2>
