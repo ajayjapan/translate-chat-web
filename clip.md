@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Frequently Asked Questions"
+title: "iOS App Clip Chat"
 ---
 
 <div class="lg:col-span-4 pb-10 min-h-screen text-slate-700">
