@@ -1,0 +1,21 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["T758W463WZ.com.ajayjapan.translatechat"],
+        "components": [
+          {
+            "/": "/clip",
+            "comment": "Matches any URL with a path that starts with /chat."
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": ["T758W463WZ.com.ajayjapan.translatechat"]
+  },
+  "appclips": {
+    "apps": ["T758W463WZ.com.ajayjapan.translatechat.Clip"]
+  }
+}
