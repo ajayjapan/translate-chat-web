@@ -3,7 +3,7 @@ layout: default
 title: "Terms of Service"
 ---
 
-<div class="lg:col-span-4 pb-10 min-h-screen text-slate-700">
+<div class="lg:col-span-8 pb-10 min-h-screen text-slate-700">
 <div class="max-w-3xl mx-auto text-left">
 <h1>Terms of Service</h1>
 <p>Last Updated: October 8, 2023.</p>

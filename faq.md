@@ -3,7 +3,7 @@ layout: default
 title: "Frequently Asked Questions"
 ---
 
-<div class="lg:col-span-4 pb-10 min-h-screen text-slate-700">
+<div class="lg:col-span-8 pb-10 min-h-screen text-slate-700">
 <div class="max-w-3xl mx-auto text-left">
     <h1>Frequently Asked Questions</h1>
     <p>
