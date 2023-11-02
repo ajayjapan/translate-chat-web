@@ -13,7 +13,7 @@ title: "Chat with anyone in any language"
     <p class="text-lg p-5 text-slate-700 max-w-lg mx-auto pb-10">
     With TranslateChat, it's super easy to chat with people who speak different languages. Just type in your language, and our smart AI translates it for the other person. You can even hear the audio translations! Only available for iPhone. Perfect for learning new languages!
     </p>        
-    <a href="#" class="bg-amber-400 text-black rounded-lg py-3 px-6 font-semibold text-xl">COMING SOON</a>
+    <a target="_blank" href="https://apps.apple.com/us/app/ai-translatechat/id6448480426" class="bg-amber-400 text-black rounded-lg py-3 px-6 font-semibold text-xl">DOWNLOAD</a>
 </div>
 
 <div class="hidden col-span-2 row-span-2 items-end lg:flex">
