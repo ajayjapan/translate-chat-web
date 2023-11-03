@@ -20,7 +20,7 @@ title: "Chat with anyone in any language"
 <img src="{{ "/assets/images/woman-right.png" | relative_url }}" srcset="{{ "/assets/images/woman-right.png" | relative_url }} 1x, {{ "/assets/images/woman-right@2x.png" | relative_url }} 2x" class="mx-auto">
 </div>
 
-<div class="col-span-4 overflow-hidden" style="min-height:430px;">
+<div class="col-span-4 overflow-hidden flex flex-col justify-end" style="min-height: 430px;">
     <img src="{{ "/assets/images/screenshot-iphone.png" | relative_url }}" srcset="{{ "/assets/images/screenshot-iphone.png" | relative_url }} 1x, {{ "/assets/images/screenshot-iphone@2x.png" | relative_url }} 2x" class="mx-auto lg:hidden p-5">
     <img src="{{ "/assets/images/screenshot-iphone-top.png" | relative_url }}" srcset="{{ "/assets/images/screenshot-iphone-top.png" | relative_url }} 1x, {{ "/assets/images/screenshot-iphone-top@2x.png" | relative_url }} 2x" class="mx-auto hidden lg:block">
 </div>
