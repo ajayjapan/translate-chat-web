@@ -2,6 +2,7 @@
 layout: default
 title: "iOS App Clip Chat"
 ---
+<meta name="apple-itunes-app" content="app-id=com.ajayjapan.translatechat, app-clip-bundle-id=com.ajayjapan.translatechat.Clip, app-clip-display=card">
 
 <div class="lg:col-span-8 pb-10 min-h-screen text-slate-700">
 <div class="max-w-3xl mx-auto text-center">
