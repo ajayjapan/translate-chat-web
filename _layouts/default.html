@@ -2,6 +2,11 @@
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta property="og:title" content="{{ page.title }} - {{ site.title }}" />
+    <meta property="og:description" content="TranslateChat makes chatting with people who speak different languages a breeze. Just type in your language, and our AI will handle the translation. Exclusive for iPhone users." />
+    <meta property="og:image" content="{{ "/assets/images/translatechat-web-preview.png" | relative_url }}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
     <meta charset="utf-8">
     <title>{{ page.title }} - {{ site.title }}</title>
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
