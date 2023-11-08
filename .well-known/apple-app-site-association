@@ -7,6 +7,14 @@
           {
             "/": "/clip",
             "comment": "Matches any URL with a path that starts with /chat."
+          },
+          {
+            "/": "/code/*",
+            "comment": "Matches any URL with a path that starts with /chat."
+          },
+          {
+            "/": "/invite/*",
+            "comment": "Matches any URL with a path that starts with /chat."
           }
         ]
       }
