@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "iOS App Clip Chat"
-permalink: /code/:title
 ---
 <meta name="apple-itunes-app" content="app-id=com.ajayjapan.translatechat, app-clip-bundle-id=com.ajayjapan.translatechat.Clip, app-clip-display=card">
 
