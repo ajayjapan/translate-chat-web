@@ -1,5 +1,5 @@
-url: 'https://www.translatechat.app'
-baseurl: ''
+url: 'https://ajayjapan.github.io'
+baseurl: '/translate-chat-web'
 title: 'Translate Chat'
 
 plugins:
